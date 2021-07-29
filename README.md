@@ -1,2 +1,1 @@
-# GitignoreTemplates
-Templates of .gitignore files
+# Templates of .gitignore files
